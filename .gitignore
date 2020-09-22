@@ -1,0 +1,8 @@
+*.cmd
+Module.symvers
+*.a
+*.ko
+ibtest.mod
+ibtest.mod.*
+*.o
+modules.order
